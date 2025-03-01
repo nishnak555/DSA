@@ -27,7 +27,7 @@ function RemoveLastOccurrenceOfACharacterFromString(str, strToRemove) {
 }
 
 const str = "You are very good player, but you have to work hard";
-const strToRemove = "you";
+const strToRemove = "y";
 
 const finalResult = RemoveLastOccurrenceOfACharacterFromString(
   str,

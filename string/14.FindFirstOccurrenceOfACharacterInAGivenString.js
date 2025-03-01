@@ -18,7 +18,7 @@ function FindFirsOccurrenceOfACharacterInAGivenString(str, strToFind) {
 }
 
 const str = "You are very good player,but you very to work hard";
-const strToFind = "are";
+const strToFind = "a";
 
 const finalResult = FindFirsOccurrenceOfACharacterInAGivenString(
   str,

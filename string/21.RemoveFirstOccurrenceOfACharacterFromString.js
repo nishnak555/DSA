@@ -31,7 +31,7 @@ function removeFirstOccurrence(str, strToRemove) {
 }
 
 const str = "You are very good player, but you very to work hard";
-const strToRemove = "you";
+const strToRemove = "y";
 
 const finalResult = removeFirstOccurrence(str, strToRemove);
 console.log(finalResult, "finalResult");

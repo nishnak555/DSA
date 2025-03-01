@@ -18,7 +18,7 @@ function SearchAllOccurrencesOfACharacterInGivenString(str, strToFind) {
 }
 
 const str = "You are very good player,but you very to work hard";
-const strToFind = "you";
+const strToFind = "y";
 
 const finalResult = SearchAllOccurrencesOfACharacterInGivenString(
   str,

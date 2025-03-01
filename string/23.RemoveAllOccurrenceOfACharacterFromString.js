@@ -20,7 +20,7 @@ function RemoveAllOccurrenceOfACharacterFromString(str, strToRemove) {
 }
 
 const str = "You are very good player, but you have to work hard";
-const strToRemove = "you";
+const strToRemove = "y";
 
 const finalResult = RemoveAllOccurrenceOfACharacterFromString(str, strToRemove);
 console.log(finalResult, "finalResult");
